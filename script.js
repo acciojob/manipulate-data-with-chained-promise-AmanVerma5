@@ -17,7 +17,7 @@
       });
     }
 
-    const inputArray = [1, 2, 3, 4];
+    const inputArray = [1,2,3,4,5,6,7,8];
 
     manipulateArray(inputArray)
       .then(finalArray => {
